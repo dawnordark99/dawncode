@@ -1,0 +1,9 @@
+..\thdz_motor\modbus_core.o: ..\MODROL_MODBUS\modbus_core.c
+..\thdz_motor\modbus_core.o: ..\MODROL_MODBUS\modbus_core.h
+..\thdz_motor\modbus_core.o: D:\keil5cdk\ARM\ARMCC\Bin\..\include\string.h
+..\thdz_motor\modbus_core.o: D:\keil5cdk\ARM\ARMCC\Bin\..\include\stdbool.h
+..\thdz_motor\modbus_core.o: ..\MODROL_MODBUS\modbus_core_define.h
+..\thdz_motor\modbus_core.o: D:\keil5cdk\ARM\ARMCC\Bin\..\include\stdint.h
+..\thdz_motor\modbus_core.o: D:\keil5cdk\ARM\ARMCC\Bin\..\include\stdio.h
+..\thdz_motor\modbus_core.o: ..\MODROL_MODBUS\modbus_core_crc.h
+..\thdz_motor\modbus_core.o: ..\MODROL_MODBUS\slave_rtu.h
